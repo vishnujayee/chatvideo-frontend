@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# AI-tool files (never push)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+
+# secrets
+.env
+
